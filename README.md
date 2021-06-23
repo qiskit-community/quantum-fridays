@@ -17,3 +17,7 @@
 * [Toffoli](https://github.com/qiskit-community/ibm-quantum-challenge-2021/blob/main/content/ex1/ex1.ipynb)
 * [Shor's Algorithm](Challenge-Ex2-Solution.ipynb)
 * [Grover with multiple solutions](Lab6-Solution.ipynb)
+
+## Slides
+
+* [Quantum Machine Learning - Amira Abbas](Qiskit_friday_QML_intro.pdf)
