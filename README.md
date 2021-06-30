@@ -18,6 +18,7 @@
 * [Shor's Algorithm](Challenge-Ex2-Solution.ipynb)
 * [Grover with multiple solutions](Lab6-Solution.ipynb)
 
-## Slides
+## Slides/Notebooks
 
 * [Quantum Machine Learning - Amira Abbas](Qiskit_friday_QML_intro.pdf)
+* [Quantum Optimization - Stefan Woerner](qiskit-optimization.ipynb)
